@@ -10,3 +10,4 @@ This project is a simple and interactive dashboard created using [Chart.js](http
 - **Data Integration:** Easily integrate real-time data or static data sources into the charts.
 - **Customizable:** Options for customizing the appearance of the charts, including colors, fonts, and tooltips.
 - **Number of Commits Graph:** A graph showcasing the number of commits made over time to this repository.
+
